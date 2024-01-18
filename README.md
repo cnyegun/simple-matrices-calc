@@ -1,1 +1,1 @@
-# simple-matrix-calc
+# Simple Matrices Calculator
