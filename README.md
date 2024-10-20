@@ -1,2 +1,2 @@
-# Simple Matrices Calculator
-Stupid project while I'm learning C and Matrices
+# Simple/Stupid Matrices Calculator
+Project while I'm learning C and Matrices
